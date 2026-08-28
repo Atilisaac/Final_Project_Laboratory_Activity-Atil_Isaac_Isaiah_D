@@ -228,7 +228,7 @@ clinic.view/
 
 ## Author
 
-- **Name:** [Your Name]
+- **Name:** Isaac Isaiah D. Atil
 - **Course:** Object-Oriented Programming
-- **School:** [Your School]
+- **School:** Cor Jesu College
 - **Year:** 2026
